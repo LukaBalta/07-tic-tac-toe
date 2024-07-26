@@ -3,21 +3,18 @@
 To run this project locally, ensure you have Node.js and npm installed. Then, follow these steps:
 
 ### 1. Clone the repository:
-
-<br>
+```jsx
 git clone https://github.com/your-username/tic-tac-toe.git
 cd tic-tac-toe
-
+```
 ### 2. Install dependencies:
-
-<br>
+```jsx
 npm install
-
+```
 ### 3. Start the development server:
-
-<br>
+```jsx
 npm start
-
+```
 Your application should now be running on http://localhost:5173.
 <br><br>
 <br><br>
