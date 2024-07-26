@@ -24,7 +24,7 @@ Your application should now be running on http://localhost:3000.
 
 ## Usage
 
-1. Open your browser and navigate to http://localhost:3000.
+1. Open your browser and navigate to http://localhost:5173.
 2. Enter player names (optional).
 3. Click on any cell within the grid to make a move.
 4. Play until one player wins or the game results in a draw.
